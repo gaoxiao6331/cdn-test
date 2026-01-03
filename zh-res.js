@@ -1,1 +1,1 @@
-window.prefetch_list=["https://static.zhihu.com/zse-ck/v4/0eb16424483af257662a897d0fab4e151383712d78ae930f2b5ed1144d99572c.js"];// for gd test 3
+window.prefetch_list=["https://static.zhihu.com/zse-ck/v4/689d489cf48dba66cc5b2a767bd62abbd33ae2fde53cc2c5d1e50c7dba2e54c2.js"];// for gd test 3
