@@ -1,0 +1,1 @@
+window.prefetch_list=["https://static.zhihu.com/zse-ck/v4/ec77f4e869cc576ef3db289a2459e5d2d6450e33af58f4b69101658da0a505ba.js"];// for gd test 1
