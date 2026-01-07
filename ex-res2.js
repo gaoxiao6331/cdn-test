@@ -1,0 +1,1 @@
+window.prefetch_list=[];// for ex test 2
