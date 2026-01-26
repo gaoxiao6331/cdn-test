@@ -1,1 +1,1 @@
-window.prefetch_list= ["http://localhost:3001/assets/js/js/index.js"]; // this is for 3001/b 22:25
+window.prefetch_list= []; // this is for 3001/b 22:25
