@@ -1,1 +1,1 @@
-window.prefetch_list= []; // this is for 3001/b
+window.prefetch_list= ["https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js","https://unpkg.com/react@18.3.1/umd/react.production.min.js","http://localhost:3001/b/js/react-app.js"]; // this is for 3001/b
