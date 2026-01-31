@@ -1,1 +1,1 @@
-window.prefetch_list= ["http://localhost:3001/assets/js/js/lib-react.js","http://localhost:3001/assets/js/js/index.js"]; // this is for 3001/b 01：07
+window.prefetch_list= ["http://localhost:3001/assets/js/js/lib-react.js","http://localhost:3001/assets/js/js/index.js","http://localhost:3001/assets/css/css/index.css","http://localhost:3001/b"]; // this is for 3001/b 0201-00:02
