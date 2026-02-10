@@ -1,1 +1,1 @@
-window.prefetch_list= ["https://gaoxiao6331.github.io/prefetcher-examples/b/assets/js/js/lib-react.js","https://gaoxiao6331.github.io/prefetcher-examples/b/assets/js/js/index.js","https://gaoxiao6331.github.io/prefetcher-examples/b/assets/css/css/index.css","https://gaoxiao6331.github.io/prefetcher-examples/b/assets/js/async/js/624.js","https://gaoxiao6331.github.io/prefetcher-examples/b/assets/js/async/js/791.js","https://gaoxiao6331.github.io/prefetcher-examples/b/"]; // this is for /b 0210-21:41
+window.prefetch_list= []; // this is for /b 0210-21:47
